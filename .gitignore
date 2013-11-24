@@ -1,0 +1,29 @@
+Exercise 1-
+int abs_val(double x) {
+                if (x > 0)
+                   return x;
+                else
+                   return -x;
+             }
+
+Exercise 2-
+The following C function inputs three values. If the first value inputted (a) is equal to both the second (b) and third values (c), then it will return 1 meaning that the program has encountered a problem. However, if the first value was not equal to either the second or the third  then the program is successful and will return 0.
+
+Exercise 3-
+9 and 11
+
+Exercise 4-
+
+#include<stdio.h>
+
+int main () {
+    def is_prime(n):
+    n = abs(n)
+    i = 2
+        while i < n:
+        if n % i == 0:
+            return 0
+        else
+        i += 1
+            return 1
+            }
