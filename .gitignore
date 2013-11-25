@@ -1,9 +1,9 @@
 Exercise 1-
-int abs_val(double x) {
-                if (x > 0)
-                   return x;
+int abs_val(int a) {
+                if (a > 0)
+                   return a;
                 else
-                   return -x;
+                   return -a;
              }
 
 Exercise 2-
